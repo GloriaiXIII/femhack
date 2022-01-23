@@ -9,10 +9,9 @@ The European Union is concerned about the implications that Brexit may have on t
 ![slide2](https://github.com/GloriaiXIII/femhack/blob/main/img/slide2.jpg)
 ![slide3](https://github.com/GloriaiXIII/femhack/blob/main/img/slide3.jpg)
 ![slide4](https://github.com/GloriaiXIII/femhack/blob/main/img/slide4.jpg)
-
 [Find here the presentation slides](https://slides.com/gloriaixiii/minimal)
 
-If you are interested in the hackathon challenge, [here you can find more information about it](https://nuwe.io/challenge/hack-the-markets-eda)
-![femhack](https://challenges-asset-files.s3.us-east-2.amazonaws.com/Femhack/Femhack_Header.png)
+And if you are interested in the hackathon challenge, [here you can find more information about it](https://nuwe.io/challenge/hack-the-markets-eda)
+![femhack](https://github.com/GloriaiXIII/femhack/blob/main/img/Femhack_Header.png)
 
 
